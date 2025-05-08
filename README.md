@@ -8,18 +8,6 @@ As a cybersecurity professional, I understand the value of practical experience 
 * [Vulnerability Management Program Implementation](https://github.com/TsumaA/Vulnerability-Management-Program/blob/main/README.md)
 * [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/TsumaA/Remidiation-Automation/tree/main)
 
-# 🛡️ System Hardening & STIG Compliance
-
-- 10 DISA STIG Remediation Scripts (Windows 10)
-  
-# 🕵🏾‍♀️ SOC Automation & Threat Detection Projects
-
-- SOC Automation and Threat Enrichment Workflow (Wazuh, Shuffle, TheHive)
-  
-# 📊 Configuration Review
-
-- **[SQL Security Audit](https://github.com/Danielle-Morris-1/SQL-Security-Audit/tree/main)**
-  
 # 🧰 Tools & Technologies
 
 ## Network & Endpoint
