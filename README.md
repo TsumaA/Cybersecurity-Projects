@@ -5,8 +5,8 @@ As a cybersecurity professional, I understand the value of practical experience 
 
 # ⚠️ Vulnerability Management Projects
 
-* Vulnerability Management Program Implementation
-* Programmatic Vulnerability Remediations (PowerShell and BASH)
+* [Vulnerability Management Program Implementation](https://github.com/TsumaA/Vulnerability-Management-Program/blob/main/README.md)
+* [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/TsumaA/Remidiation-Automation/tree/main)
 
 # 🛡️ System Hardening & STIG Compliance
 
