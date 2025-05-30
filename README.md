@@ -10,7 +10,7 @@ As a cybersecurity professional, I understand the value of practical experience 
 
 # 🚨 Threat Hunting and Security Operations
 
-* [Threat Hunting Scenario (Tor Browser Usage)]((ttps://github.com/TsumaA/threat-hunting-scenario-tor/tree/main)
+* [Threat Hunting Scenario (Tor Browser Usage)](ttps://github.com/TsumaA/threat-hunting-scenario-tor/tree/main)
 
 # 🧰 Tools & Technologies
 
