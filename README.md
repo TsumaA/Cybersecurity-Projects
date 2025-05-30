@@ -12,6 +12,10 @@ As a cybersecurity professional, I understand the value of practical experience 
 
 * [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TsumaA/threat-hunting-scenario-tor/tree/main)
 
+# ⚡ Automation Projects
+
+* [Microsoft Azure User Onboarding](https://github.com/TsumaA/User-Onboard-Automation-in-Microsoft-Azure/blob/main/README.md) 
+
 # 🧰 Tools & Technologies
 
 ## Network & Endpoint
