@@ -12,6 +12,7 @@ As a cybersecurity professional, I understand the value of practical experience 
 
 * [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TsumaA/threat-hunting-scenario-tor/tree/main)
 * [Threat Hunting Scenario (Brute Force Attack)](https://github.com/TsumaA/threat-hunting-scenario-brute-force-investigation)
+* [Security Operations Dashboard](https://github.com/TsumaA/security-operations-dashboard/blob/main/README.md)
 
 # ⚡ Automation Projects
 
