@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+    This PowerShell script checks if the SCENoApplyLegacyAuditPolicy registry value is properly configured to prevent legacy audit policies from overriding Advanced Audit Policy settings, ensuring audit policy compliance and offering remediation options.
 
 .NOTES
     Author          : Abraham Tsuma
