@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+    This PowerShell script checks if the Windows registry value SealSecureChannel is properly configured to secure domain communications by verifying it exists and is set to 1 in the Netlogon service parameters.
 
 .NOTES
     Author          : Abraham Tsuma
