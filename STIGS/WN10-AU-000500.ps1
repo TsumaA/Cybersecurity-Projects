@@ -25,7 +25,7 @@
     PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
 #>
 
-# YOUR CODE GOES HERE# PowerShell script to set Event Log Application MaxSize policy
+# PowerShell script to set Event Log Application MaxSize policy
 # Compatible with Windows 10 (PowerShell 5.1)
 
 # Check if running as Administrator
